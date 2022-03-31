@@ -8,8 +8,7 @@ public class ejercicio1 : MonoBehaviour
 
         void Start()
     {
-        int = num1;
-        int = num2;
+        int num1 = 0;
         num1 = num1 + 2;
         Debug.Log("La suma entre 0 y 2 es igual a " + num1);
         
